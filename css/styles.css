@@ -1,0 +1,36 @@
+.navbar a {
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+.navbar a:hover {
+  color: rgb(77, 10, 10);
+}
+.navbar {
+  margin-bottom: 10px;
+}
+
+body {
+  background-color: rgb(192, 63, 63);
+  font-family: "Lobster";
+  text-align: center;
+}
+li {
+  font-size: 25px;
+  list-style: none;
+}
+p {
+  font-size: 25px;
+}
+img {
+  width: 400px;
+  height: 400px;
+  border-radius: 5%;
+  margin: 5px;
+  border: black solid 3px;
+}
+
+h1 {
+  font-size: 55px;
+}
